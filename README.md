@@ -26,4 +26,4 @@ Currently, I'm orchestrating enterprise pipelines at McLaren Construction Group 
 - **LinkedIn:** [linkedin.com/in/will-hawe](https://linkedin.com/in/will-hawe)
 - **Email:** williamhawe8888@gmail.com
 
-*"Building the infrastructure that makes AI actually useful."*
+*"Building the infrastructure that makes AI actually useful."* 

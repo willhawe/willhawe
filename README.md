@@ -1,4 +1,4 @@
-# Hi there, I'm Will Hawe 👋
+# Will Hawe
 
 **Data & Platform Engineer | Founder & CTO | FinOps Advocate**
 
